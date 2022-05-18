@@ -1,6 +1,6 @@
 # Amazon Prime Video Recommendation System
 
-![img](./images/Amazon_Prime_Video_logo.png)
+![img](./Images/Amazon_Prime_Video_logo.png)
 
 ### Author:
 - Jawwad Siddiqui:
