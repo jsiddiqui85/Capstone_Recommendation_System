@@ -1,4 +1,4 @@
-# Spotify Recommendation System
+# Amazon Prime Video Recommendation System
 
 ### Author:
 - Jawwad Siddiqui:
@@ -10,13 +10,7 @@
 
 ## Business Understanding and Stakeholder
 
-### Data Instruction
-
-Where to download the data and how to load it into the notebook.
-
-There is an empty data folder in this repo - you need to download and load that CSV into your local data folder after cloning the repo.
-
-## Data and Methodology 
+## Data
 
 ## Methods
 
