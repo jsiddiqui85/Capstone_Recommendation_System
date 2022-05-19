@@ -1,5 +1,7 @@
 # Amazon Prime Video Recommendation System
 
+![img](./Images/Amazon_Prime_Video_logo.png)
+
 ### Author:
 - Jawwad Siddiqui:
 [LinkedIn](https://www.linkedin.com/in/jsiddiqui85/) |
