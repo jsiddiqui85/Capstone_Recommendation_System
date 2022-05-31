@@ -1,5 +1,3 @@
-# Amazon Prime Video Recommendation System
-
 ![img](./Images/Amazon_Prime_Video_logo.png)
 
 ### Author:
@@ -7,6 +5,8 @@
 [LinkedIn](https://www.linkedin.com/in/jsiddiqui85/) |
 [GitHub](https://github.com/jsiddiqui85) |
 [Medium](https://medium.com/@jsiddiqui85)
+
+# PrimeTime: An Amazon Prime Video - Content Based - Recommendation System
 
 ## Business Understanding 
 
