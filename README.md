@@ -66,6 +66,39 @@ This Amazon Prime Video dataset can be downloaded [HERE](https://www.kaggle.com/
 
 ## Methods
 
+My methodology follows building two recommendation systems based of off two content based filtering models: `Cosine Similarity` and `K-Nearest Neighbors`. After modeling, I built a function that takes in three **user-inputted** inputs that include the name of the movie, the number of recommendations the user would like, and whether the content is a movie or a show and then uses either model to provide its recommendations.
+
+1. Cosine Similarity
+- this model basis its recommendations off of the genres that were One Hot Encoded 
+
+2. K-Nearest Neighbors
+KNN appears to yield strong recommendations across multiple genres.  The final results do not appear to be showing similar results as the Cosine Similarity recommender system which suggests that both of these systems are working properly.
+
+The following hyperparameter values were tested:
+
+1. **metric**
+    - manhattan
+    - minkowski
+    - euclidean
+    - chebyshev
+
+
+2. **algorithm**
+    - brute
+    - ball_tree
+    - kd_tree
+    - auto
+
+
+3. **n_neighbors**
+    - 3
+    - 5
+    - 7
+    - 9
+    - 11
+
+**Please note:** Metric= 'manhattan', algorithm= 'brute', n_neighbors= 7 demonstrated to yield a wider variety of results compared to Cosine Similarity.  Other hyperparameter combinations did not add any value by showing almost identical results.
+
 ## Conclusions
 
 
@@ -99,6 +132,5 @@ For additional questions, feel free to [contact me](mailto:jsiddiqui85@gmail.com
 ├── data                                <- Source data .csv files
 ├── images                              <- Exported Notebook visualizations
 ├── Workspace                           <- Top-level README for reviewers of this project
-├── environment.yml                     <- Environment .yml file for reproducibility
 ├── PrimeTime_Main.ipynb                <- Technical and narrative documentation in Jupyter Notebook
 ├── project_presentation.pdf            <- PDF version of project presentation
