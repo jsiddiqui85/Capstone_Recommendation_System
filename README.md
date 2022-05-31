@@ -134,4 +134,4 @@ For additional questions, feel free to [contact me](mailto:jsiddiqui85@gmail.com
 ├── Workspace                           <- Additional scratch work notebooks
 ├── PrimeTime_Main.ipynb                <- Technical and narrative documentation in Jupyter Notebook
 ├── project_presentation.pdf            <- PDF version of project presentation
-├── README                              <- Top-level README for reviewers of this project
+└── README                              <- Top-level README for reviewers of this project
