@@ -1,12 +1,12 @@
 ![img](./Images/Amazon_Prime_Video_logo.png)
 
+# PrimeTime: An Amazon Prime Video - Content Based - Recommendation System
+
 ### Author:
 - Jawwad Siddiqui:
 [LinkedIn](https://www.linkedin.com/in/jsiddiqui85/) |
 [GitHub](https://github.com/jsiddiqui85) |
 [Medium](https://medium.com/@jsiddiqui85)
-
-# PrimeTime: An Amazon Prime Video - Content Based - Recommendation System
 
 ## Business Understanding 
 
