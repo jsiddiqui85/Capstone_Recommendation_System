@@ -72,7 +72,7 @@ My methodology follows building two recommendation systems based of off two cont
 - this model basis its recommendations off of the genres that were One Hot Encoded 
 
 2. K-Nearest Neighbors
-KNN appears to yield strong recommendations across multiple genres.  The final results do not appear to be showing similar results as the Cosine Similarity recommender system which suggests that both of these systems are working properly.
+KNN appears to yield strong recommendations across multiple genres.  The final results appear to be showing similar results as the Cosine Similarity recommender system which suggests that both of these systems are working properly.
 
 The following hyperparameter values were tested:
 
