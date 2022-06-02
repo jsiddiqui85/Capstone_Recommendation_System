@@ -22,7 +22,7 @@ At this point, Amazon has decided to seek out Data Scientists who are willing to
 ## Overview
 
 
-This project leverages the entire Amazon Prime Video database to provide a *content based filtering* recommendation system to their current subscribers.  Currently, Amazon Prime Video ranks third in content streaming services when compared to its competitors Netflix and Hulu.  Although they hold part of the streaming service market, they would like to readjust themselves in the market by retaining their current subscriber base by leveraging an improved recommendation system for their current subscribers.
+This project leverages the entire Amazon Prime Video database to provide a *content based filtering* recommendation system to their current subscribers.  Currently, Amazon Prime Video ranks second in content streaming services when compared to its competitors Netflix and Hulu.  Although they hold part of the streaming service market, they would like to readjust themselves in the market by retaining their current subscriber base by leveraging an improved recommendation system for their current subscribers.
 
 In order to address the problem that Amazon has posed, I have used the following two content specific models to improve on Amazon's currently collaborative filtering algorithm:
 
