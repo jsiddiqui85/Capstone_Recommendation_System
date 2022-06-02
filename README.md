@@ -122,7 +122,7 @@ There are a few limitations with this project that include:
 
 ## For More Information
 
-Please review my full analysis available in my [Jupyter Notebook](PrimeTime_Main.ipynb) or [Presentation Deck](fakelink).
+Please review my full analysis available in my [Jupyter Notebook](PrimeTime_Main.ipynb) or [Presentation Deck](PrimeTime.pdf).
 
 For additional questions, feel free to [contact me](mailto:jsiddiqui85@gmail.com).
 
@@ -132,6 +132,6 @@ For additional questions, feel free to [contact me](mailto:jsiddiqui85@gmail.com
 ├── data                                <- Source data .csv files
 ├── images                              <- Exported Notebook visualizations
 ├── Workspace                           <- Additional scratch work notebooks
+├── PrimeTime.pdf                       <- PDF version of project presentation
 ├── PrimeTime_Main.ipynb                <- Technical and narrative documentation in Jupyter Notebook
-├── project_presentation.pdf            <- PDF version of project presentation
 └── README                              <- Top-level README for reviewers of this project
